@@ -58,5 +58,5 @@ int main(){
     int size = sizeof(a) / sizeof(a[0]);
     int pI = pivotIndex(a, size);
 
-    printf("%d", pI);
+    printf("%d\n", pI);
 }

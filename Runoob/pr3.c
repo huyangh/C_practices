@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 #include <math.h>
-void pr3(){
+int main(){
     int i, j, m, n, x;
 
     for (i = 2; i < 168 / 2 + 1; i += 2) {
@@ -18,8 +18,6 @@ void pr3(){
             }
         }
     }
-
-
 
 }
 

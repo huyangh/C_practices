@@ -12,7 +12,7 @@
 // 从键盘输入当月利润I，求应发放奖金总数？
 
 #include <stdio.h>
-void pr2(){
+int main(){
     double profit, bonus;
     double bonus1, bonus2, bonus3, bonus4, bonus5;
 
